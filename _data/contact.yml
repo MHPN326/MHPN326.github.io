@@ -2,10 +2,11 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/MHPN326"
 
 - type: email
   icon: "fas fa-envelope"
-  url:  'ermac@null.net'
+  url: "mailto:ermac@null.net"
   noblank: true # open link in current tab
 
 - type: rss
@@ -18,9 +19,8 @@
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
 - type: linkedin
-   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-   url:  'https://linkedin.com/in/mhpn'                  # Fill with your Linkedin homepage
-#
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url: 'https://linkedin.com/in/mhpn'
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
