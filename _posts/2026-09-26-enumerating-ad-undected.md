@@ -8,7 +8,7 @@ tags:
   - Offensive Tooling
   - Enumeration
   - Deception Evasion
-  - Decoys Evasion
+  - Decoy Evasion
 pin: false
 image:
   path: /assets/img/posts/44.jpg
