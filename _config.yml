@@ -14,7 +14,7 @@ timezone: UTC
 # jekyll-seo-tag settings â€º https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # â†“ --------------------------
 
-title: Binary Win # the main title
+title: MHPN326 # the main title
 
 tagline: Notes on security, reversing and code
 
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: badhacker322
+  name: MHPN326
   email: badhacker322@gmail.com
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/MHPN326.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
