@@ -3,6 +3,7 @@ title: "Enumerating AD - Undected "
 date: 2026-09-26T18:36
 categories:
   - Offensive
+  - AD
 tags:
   - Active Directory
   - Offensive Tooling
