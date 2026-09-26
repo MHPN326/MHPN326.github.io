@@ -16,7 +16,7 @@ timezone: UTC
 
 title: MHPN326 # the main title
 
-tagline: Another Conventional Security Researcher, Focusing on AD, WIndows, Linux, Reverse & Offensive stuff 
+tagline: Offensive things about Active Directory, Azure, Windows & Linux
 
 description: >- # used by seo meta and the atom feed
   Personal blog about reversing and Offensive Security.
