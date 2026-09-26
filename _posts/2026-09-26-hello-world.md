@@ -16,6 +16,12 @@ Welcome. This blog runs on [Jekyll](https://jekyllrb.com) with the [Chirpy](http
 
 Posts are managed through [Pages CMS](https://app.pagescms.org): log in with GitHub, pick this repo, write, save. GitHub Actions rebuilds the site in about a minute.
 
+یسیسیسی
+
+من دارم میر
+
+ها هاه ایهیب ل یبلیبلیب ل
+
 ```c
 int main(void) {
     puts("hello, world");
