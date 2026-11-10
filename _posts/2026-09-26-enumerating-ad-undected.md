@@ -1,5 +1,5 @@
 ---
-title: "Enumerating AD - Undected "
+title: Evade Dance - Evading AD SACL during Enumeration
 date: 2026-09-26T18:36
 categories:
   - Offensive
@@ -10,8 +10,8 @@ tags:
   - Enumeration
   - Deception Evasion
   - Decoy Evasion
-pin: false
+pin: true
 image:
-  path: /assets/img/posts/44.jpg
+  path: /assets/img/posts/Evade Dance Wallpaper.jpg
 ---
-sometext for now 1
+SAMPLE
